@@ -7,3 +7,5 @@
 1. Скачать
 2. Распаковать архивы в ``./tiles-layers``
 3. Открыть ``index.html`` в браузере
+
+Родственный репозиторий с архивными картами: https://github.com/TauCetiStation/maps-archive/
